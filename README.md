@@ -1,5 +1,5 @@
 # Server-Builds
 
-This Repo is just here for Reference of What Devices WIll have Server Builds
+This repo is just here for reference of what devices will have server builds. 
 
-IF you want a build on server please ask me and Raleigh then we will Decide Together
+If you want a build on the server please ask either minidude2012 or xX-Yoshi-Xx then we will decide. 
